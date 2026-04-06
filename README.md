@@ -1,2 +1,19 @@
 # Aakash-Vishwakarm-Portfolio
-🚀 Personal Portfolio Website built using HTML, CSS, and JavaScript. Showcasing my projects, skills, and contact information with a modern, responsive UI and smooth animations.
+# 🌐 Developer Portfolio
+
+This is my personal portfolio website built using HTML, CSS, and JavaScript.
+
+## 🚀 Features
+- Responsive design (mobile-friendly)
+- Smooth animations & modern UI
+- Projects showcase
+- Contact form integration
+- Google Maps location
+
+## 🛠️ Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+
+## 📬 Contact
+Feel free to connect with me on LinkedIn or check out my GitHub!
